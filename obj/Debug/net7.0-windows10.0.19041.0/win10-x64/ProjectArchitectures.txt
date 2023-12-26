@@ -1,0 +1,1 @@
+C:\Users\nkvap\Desktop\todolist\todolist.csproj;x64
